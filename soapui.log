@@ -1,5 +1,5 @@
-2019-04-23 00:02:45,347 WARN  [DefaultSoapUICore] Missing folder [C:\Users\TheAl\ext] for external libraries
-2019-04-23 00:02:45,651 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\TheAl\soapui-settings.xml]
-2019-04-23 00:02:46,162 INFO  [WorkspaceImpl] Loading workspace from [C:\Users\TheAl\intellij-soapui-workspace.xml]
-2019-04-23 00:39:36,620 INFO  [WorkspaceImpl] Saved workspace to [C:\Users\TheAl\intellij-soapui-workspace.xml]
-2019-04-23 00:39:36,627 INFO  [DefaultSoapUICore] Settings saved to [C:\Users\TheAl\soapui-settings.xml]
+2019-04-26 15:09:41,656 WARN  [DefaultSoapUICore] Missing folder [C:\Users\TheAl\ext] for external libraries
+2019-04-26 15:09:41,844 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\TheAl\soapui-settings.xml]
+2019-04-26 15:09:42,238 INFO  [WorkspaceImpl] Loading workspace from [C:\Users\TheAl\intellij-soapui-workspace.xml]
+2019-04-26 15:11:46,216 INFO  [WorkspaceImpl] Saved workspace to [C:\Users\TheAl\intellij-soapui-workspace.xml]
+2019-04-26 15:11:46,223 INFO  [DefaultSoapUICore] Settings saved to [C:\Users\TheAl\soapui-settings.xml]
